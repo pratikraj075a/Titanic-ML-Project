@@ -15,6 +15,4 @@ Predict whether a passenger survived or not using Machine Learning.
 ## Models Used
 - Logistic Regression
 - Random Forest
-
-## Result
-Achieved XX% accuracy.
+  
